@@ -1,1 +1,0 @@
-import{_ as t,c as s,o as c,F as o,a as e}from"./entry.SQjPysaZ.js";const n={},a=e("h1",null,"Documents",-1),r=e("p",{class:"text-body-2"},"Documents",-1);function _(l,d){return c(),s(o,null,[a,r],64)}const u=t(n,[["render",_]]);export{u as default};

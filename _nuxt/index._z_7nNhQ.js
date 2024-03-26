@@ -1,0 +1,1 @@
+import{_ as s,c as o,o as t,F as c,a as e}from"./entry.KnKJtJ23.js";const n={},a=e("h1",null,"Jobs",-1),r=e("p",{class:"text-body-2"},"Jobs",-1);function _(l,d){return t(),o(c,null,[a,r],64)}const i=s(n,[["render",_]]);export{i as default};
