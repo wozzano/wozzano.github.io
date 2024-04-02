@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,F as s,a as e}from"./entry.7MwUyWK9.js";const a={},c=e("h1",null,"Operation",-1),r=e("p",{class:"text-body-2"},"Operation",-1);function _(l,d){return n(),o(s,null,[c,r],64)}const p=t(a,[["render",_]]);export{p as default};

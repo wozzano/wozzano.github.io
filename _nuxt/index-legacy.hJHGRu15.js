@@ -1,0 +1,1 @@
+System.register(["./entry-legacy.ceIgfRr_.js"],(function(e,t){"use strict";var s,n,r,u,c;return{setters:[e=>{s=e._,n=e.c,r=e.o,u=e.F,c=e.a}],execute:function(){const t={},o=c("h1",null,"Usage Logs",-1),a=c("p",{class:"text-body-2"},"Usage Logs",-1);e("default",s(t,[["render",function(e,t){return r(),n(u,null,[o,a],64)}]]))}}}));

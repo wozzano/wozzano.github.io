@@ -1,0 +1,1 @@
+System.register(["./entry-legacy.ceIgfRr_.js"],(function(e,t){"use strict";var n,r,s,u,c;return{setters:[e=>{n=e._,r=e.c,s=e.o,u=e.F,c=e.a}],execute:function(){const t={},o=c("h1",null,"Documents",-1),l=c("p",{class:"text-body-2"},"Documents",-1);e("default",n(t,[["render",function(e,t){return s(),r(u,null,[o,l],64)}]]))}}}));

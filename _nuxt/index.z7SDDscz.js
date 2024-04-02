@@ -1,0 +1,1 @@
+import{_ as s,c as o,o as t,F as a,a as e}from"./entry.7MwUyWK9.js";const c={},n=e("h1",null,"Usage Logs",-1),r=e("p",{class:"text-body-2"},"Usage Logs",-1);function _(l,d){return t(),o(a,null,[n,r],64)}const i=s(c,[["render",_]]);export{i as default};
